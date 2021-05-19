@@ -39,7 +39,7 @@ public class CityServiceTest {
 	public void setUp() {
 		MockitoAnnotations.openMocks(this);
 	}
-
+    // test
 	// Test city service's ability to produce a CityInfo object
 	@Test
 	public void test1() {
